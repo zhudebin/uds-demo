@@ -1,0 +1,5 @@
+[{name:'id',type:2,description:'id列','precision':0,'scale':0},{name:'depId',type:2,description:'部门ID','precision':0,'scale':0}]
+
+[{name:'id',type:2,description:'id列','precision':0,'scale':0},{name:'depId',type:2,description:'部门ID','precision':0,'scale':0},{name:'name',type:9,description:'部门ID','precision':0,'scale':0}]
+
+[{name:'split',value:'-',description:'分隔符'}]
